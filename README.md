@@ -1,6 +1,6 @@
 # Alarm Clock
 
-**Alarm Clock** is an animation which includes shapes of different of size and animates to different pattern and shapes after a interval of time.
+**Alarm Clock** is a simple clock which includes clock and a alarm clock where you can setup multiple alarm at the different day of the week .
 
 #  Live  demo	
 [Click here to checkout Alarm Clock](https://ritikkashyap720.github.io/Alarm-Clock/)
